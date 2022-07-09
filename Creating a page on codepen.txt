@@ -1,0 +1,37 @@
+<! DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Page Title</title>
+
+  </head>
+
+  <body>
+
+    <h1>EDWARD EDUKON</h1>
+
+    <p>Favorite Movie.</p>
+
+    <p>-Tick tick boom.</p>
+
+    <p>-Beast of no nation.</p>
+
+    <p>-The guilt.</p>
+
+    <p>-The lost daughter.</p>
+
+    <p>-Don't look up.</p>
+
+    
+
+  </body>
+
+</html>
+
+    
+
+   
+
+  
